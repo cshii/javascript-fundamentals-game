@@ -1,0 +1,22 @@
+{
+  "name": "javascript-fundamentals-game",
+  "version": "1.0.0",
+  "description": "basic javascript game to teach coding fundamentals",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cshii/javascript-fundamentals-game.git"
+  },
+  "author": "Nezar Tarbin, Chelsea Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cshii/javascript-fundamentals-game/issues"
+  },
+  "homepage": "https://github.com/cshii/javascript-fundamentals-game#readme",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  }
+}
